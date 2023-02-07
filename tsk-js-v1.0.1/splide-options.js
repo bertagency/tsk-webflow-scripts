@@ -23,6 +23,7 @@ function sliderhomebg() {
       trimSpace: false, // true removes empty space from end of list
       pauseOnHover: false,
       draggable: false,
+      drag: false,
       
       breakpoints: {
             991: {
@@ -120,6 +121,7 @@ function sliderhomebg() {
       trimSpace: false,
       pauseOnHover: false,
       draggable: false,
+      drag: false,
       breakpoints: {
             991: {
             // Tablet
